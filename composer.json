@@ -1,0 +1,18 @@
+{
+    "name": "zarconta/utilidades",
+    "description": "Utilidades de proposito general para la creacion de sitios web.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Javier Murcia",
+            "email": "javiermurcia@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "zarconta\\utilidades\\":"src/"
+        }
+    }
+}
