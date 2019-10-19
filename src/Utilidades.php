@@ -8,7 +8,7 @@ class Utilidades{
 	
 	function __construct()
 	{
-		print 'Hola desde utilidades.! original. debe actualizar. bien lo hace . con version ';
+		print 'Hola desde utilidades.! original. debe actualizar. bien lo hace . con version 0.2.1 ';
 	}
 }
 
