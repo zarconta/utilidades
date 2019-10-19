@@ -8,7 +8,7 @@ class Utilidades{
 	
 	function __construct()
 	{
-		print 'Hola desde utilidades.! Ing. Javier Murcia.';
+		print 'Hola desde utilidades.! Ing. Javier Murcia. ya casi inciamos a programar.';
 	}
 }
 
