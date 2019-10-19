@@ -1,6 +1,6 @@
 {
     "name": "zarconta/utilidades",
-    "description": "Utilidades de proposito general para la creacion de sitios web.",
+    "description": "Utilidades de proposito general para la creacion de sitios web. pruebas",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,4 +15,5 @@
             "zarconta\\utilidades\\":"src/"
         }
     }
+    
 }
