@@ -8,7 +8,7 @@ class Utilidades{
 	
 	function __construct()
 	{
-		print 'Hola desde utilidades.! original.';
+		print 'Hola desde utilidades.! original. debe actualizar.';
 	}
 }
 
